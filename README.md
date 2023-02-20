@@ -1,2 +1,3 @@
-# ChatApp
-A social media platform which allows to host your web pages for free and also you can share { .mp4, .mp3, .html , .png , .jpg} files as same as posts in instagram.
+-Social media platform offering free web page hosting and file sharing
+-Allows users to share various file formats including .mp4, .mp3, .html, .png, .jpg
+-Users can also create and host their own web pages on the platform
