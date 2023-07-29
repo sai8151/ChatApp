@@ -15,3 +15,8 @@
 </ul>
 <p style="color: #333333;">In addition, users can create and host their own web pages on our platform. Sign up now and start sharing!</p>
 </div> 
+
+TEAM MEMBERS
+- B Sai Kiran Reddy
+- B Shravani
+- Ajay Kumar A
